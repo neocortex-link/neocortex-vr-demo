@@ -30,7 +30,7 @@ Make sure **OpenXR** is selected as the XR provider in Project Settings.
 
 ## 🔑 Neocortex Setup
 
-1. Sign up at [neocortex.ai](https://neocortex.link)
+1. Sign up at [neocortex.link](https://neocortex.link)
 2. In Unity, go to: `Tools > Neocortex Settings`
 3. Paste your **API Key**
 4. Locate `Neocortex Smart Agent` component on the Test Character and set **Project ID**
