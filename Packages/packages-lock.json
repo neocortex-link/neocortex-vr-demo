@@ -268,7 +268,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.interaction.toolkit": {
-      "version": "3.1.1",
+      "version": "3.1.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -325,7 +325,7 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "7285a5dc63486809b6be574f95f2f83d115a02d6"
+      "hash": "ee3f65538a784d550f1396b52c1e55e0afa21aaa"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
